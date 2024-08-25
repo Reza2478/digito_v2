@@ -23,9 +23,7 @@ export default function RootLayout({
         </head>
         <body>
         <MantineProvider>
-            <AppContainer>
-                {children}
-            </AppContainer>
+            <AppContainer>{children}</AppContainer>
         </MantineProvider>
         </body>
         </html>
