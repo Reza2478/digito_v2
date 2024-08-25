@@ -1,7 +1,7 @@
 const enum Links {
-    HOME = "HOME",
-    ABOUT_US = "ABOUT_US",
-    CONTACT_US = "CONTACT_US",
+    HOME = "خانه",
+    ABOUT_US = "درباره ما",
+    CONTACT_US = "تماس با ما",
 }
 
 export default Links
